@@ -1,4 +1,4 @@
-# Web Scraping Script - Big Data Challenge 2021
+# Web Scraping Script - Big Data Challenge 2021 - 
 
 import requests
 import csv
