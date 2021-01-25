@@ -1,1 +1,0 @@
-# Academic-Engagement-Metric-Scraper-Tool-Big-Data-Challenge-2021

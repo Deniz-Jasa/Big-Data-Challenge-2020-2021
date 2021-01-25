@@ -35,10 +35,10 @@ def load_table(file_path, table_name, t_host, t_port, t_dbname, t_user, t_pw):
 
 file_path = "data_final.csv"
 table_name = "NAME"
-t_host = "ec2-2254-161-208-31.compute-1.amazonaws.com"
-t_port = "54322"
-t_dbname = "d7v0219o3bqsaeqm"
-t_user = "vayxi1dsxkoasafyy"
-t_pw = "98709a5af66ds2118fa05e7cba40416b7d6b1f44186c36ee336b720c0b11bbc2911c4"
+t_host = "ec2-2254-162-218-31.compute-1.amazonaws.com"
+t_port = "54422"
+t_dbname = "d7v02asa19o3bqsaeqm"
+t_user = "vayxi1dedassxkoasafyy"
+t_pw = "98709a53af66ds2118fa05e7cba40416221b7d6b1f44186c36ee31236b720c0b11bbc2911c4"
 
 load_table(file_path, table_name, t_host, t_port, t_dbname, t_user, t_pw)

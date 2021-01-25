@@ -1,1 +1,0 @@
-# Academic-Performance-Metric-Scraper-Tool-Big-Data-Challenge-2021
