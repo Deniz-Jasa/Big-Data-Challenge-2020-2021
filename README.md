@@ -1,5 +1,7 @@
 # Big-Data-Challenge-2020-2021
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 **Big Data Hackathon Competition and Challenge:**
 
 **Problem Statement:** This year’s National Big Data Challenge encourages high school students across the country to apply their computational thinking 
@@ -9,6 +11,8 @@ ideas for better education for all regardless of socioeconomic, cultural, and ge
 **Our Group:** [Deniz Jasarbasic](https://github.com/Deniz-Jasa), [Eric Karpovits](https://github.com/EricKarpovits), Ana Balteanu, and Aidan Bergin.
 
 **Our Topic of Research:** Education Funding Systems 
+
+To view our published abstract visit [Stemfellowship's journal](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj-2020-012)
 
 To learn more, look at our study, view the results of our data, and read our final scientific report all featured in this git repository. 
 
